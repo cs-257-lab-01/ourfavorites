@@ -1,3 +1,7 @@
 Apple
 Chocolate
+<<<<<<< HEAD
+Ice cream
+=======
 Juice
+>>>>>>> d4d146f4880d466fba19850cab1160ee2442b008
